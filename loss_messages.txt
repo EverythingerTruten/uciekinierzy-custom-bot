@@ -1,0 +1,13 @@
+Policja przyłapuje cię jak podstawiasz bombę pod przedszkole. Kaucja kosztuje cię {amount}
+Bomby C4 za które zapłaciłeś {amount} nie działają.
+CIA napada na twoją kryjówkę i zabiera ci {amount}.
+Podkładasz bombę pod schronisko słodkich kotków. Zanim zdążasz ją wysadzić wściekli ludzie napadają cię i zabierają {amount}.
+Podejrzanie wysoki współtowarzysz w napadzie na bank okazuje się trzema policjantami w wysokim płaszczu. Żeby wyjść z więzienia płacisz {amount}. 
+Zamiast strzelić do helikoptera strzelasz z rakietnicy do swojej torby z pieniędzmi. Łatwa pomyłka, ale kosztuje cię {amount}.
+Grając z Osamą w papier kamień nożyce o to kto będzie mógł wlecieć w kolejny wieżowiec przegrywasz. Wykładasz {amount} na trening pilota I nie możesz nawet być tego częścią.
+Arabom nie podoba się, że zabierasz im pracę i rabują ci {amount} po twoim najnowszym zamachu.
+Starasz się wziąć okup za Bezosa ale nikt specjalnie nie chce go ratować. Operacja kosztuje cię {amount}.
+Przegrywasz wojnę licytacyjną na kontrakt wytworzenia bomb dla arabów. Niestety już wyłożyłeś {amount} na fabrykę.
+Próbujesz porwać idola k-pop ale nie wiesz kogo porwać bo wszyscy wyglądają tak samo. Paliwo do białego vana kosztuje cię {amount} - cholera, ale dzisiaj jest drogo.
+Kupujesz rosyjskie czołgi ale psują się po przejechaniu 50km od fabryki. Paliwo kosztuje cię {amount}.
+Policjanci zapisujący numer konta nie dosłyszeli ostatniego numerka. Okup {amount} nie dostaje się w twoje ręce.

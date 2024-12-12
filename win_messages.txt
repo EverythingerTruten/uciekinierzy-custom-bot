@@ -1,0 +1,11 @@
+{victim} płaci ci {amount}, żebyś nie wleciał samolotem w ich wieżowiec.
+Wysadzasz amerykańskie metro. W panice {victim} wypada z kieszeni {amount}, które zabierasz dla siebie.
+{victim} płaci ci {amount} jako okup za prezydenta USA.
+Szef ISIS {victim} daje ci {amount} za 500 rakiet ziemia-ziemia z Egiptu.
+Wysadzasz autobus którym jedzie {victim}. Grzebiąc w zgliszczach znajdujesz ich {amount}
+Na zlecenie {victim} "pokojowo" doprowadzasz do ponownego zjednoczenia Jugosławii. Płaci ci {amount} w nagrodzie.
+Porywasz {victim}. Za uwolnienie bierzesz od niego {amount}.
+Podczas napadu na bank grozisz kasjerowi {victim}, a on daje ci {amount}.
+Przykładasz lufę do karku {victim} i rozkazujesz mu, żeby wybrał {amount} z bankomatu.
+Dostajesz {amount} za eliminację {victim}.
+{victim} musi wybierać między śmiercią a oddaniem ci {amount}. Wybiera mądrze.
