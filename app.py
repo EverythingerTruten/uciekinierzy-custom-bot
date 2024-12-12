@@ -82,38 +82,6 @@ def format_cooldown_time(hours=0, minutes=0, seconds=0):
 def format_number(number: int) -> str:
     return "{:,}".format(number)
 
-def select_weighted_user(leaderboard_data, user_id, member_ids):
-    # The leaderboard data should be accessed through its proper attributes
-    users = []
-    for entry in leaderboard_data.users:  # Assuming the Leaderboard object has a users attribute
-        # Only include users who are:
-        # 1. Not the command user
-        # 2. Still in the server
-        if str(entry.user_id) != str(user_id) and str(entry.user_id) in member_ids:
-            users.append((str(entry.user_id), entry.total))
-
-    if not users:
-        return None
-
-    # Calculate total weight for normalization
-    total_weight = sum(weight for _, weight in users)
-    
-    if total_weight == 0:
-        return None
-
-    # Generate a random value between 0 and total weight
-    r = random.uniform(0, total_weight)
-
-    # Use weighted selection
-    current_weight = 0
-    for user_id, weight in users:
-        current_weight += weight
-        if r <= current_weight:
-            return user_id
-
-    # Fallback to last user if we somehow don't select one
-    return users[-1][0] if users else None
-
 @bot.event
 async def on_ready():
     """Start-up message."""
@@ -129,22 +97,12 @@ async def terrorism(ctx, avamember : discord.Member=None):
             user = await guild.get_user_balance(ctx.author.id)
             user_balance = user.cash + user.bank
             if check_success(user_balance):
-                with open('win_messages.txt', 'r', encoding='utf-8') as file:
-                    leaderboard = await unb_client.get_guild_leaderboard(ctx.guild.id)
-                    all_member_ids = [str(member.id) for member in ctx.guild.members]
-                    victim_id = select_weighted_user(leaderboard, ctx.author.id, all_member_ids)
-                    
-                    if victim_id is None:
-                        await ctx.send("No valid targets found!")
-                        return
-                        
+                with open('win_messages.txt', 'r', encoding='utf-8') as file:   
                     transaction_value = random.randrange(win_min, win_max, 1)
-                    victim = await guild.get_user_balance(victim_id)
                     await user.update(cash=transaction_value)
-                    await victim.update(cash=-transaction_value)
                     responses = [line.strip() for line in file if line.strip()]
                     response = random.choice(responses)
-                    win_message = response.format(victim=f"<@{victim_id}>", amount=f"{currency_emoji}{format_number(transaction_value)}")
+                    win_message = response.format(amount=f"{currency_emoji}{format_number(transaction_value)}")
                     embed = discord.Embed(
                         description=win_message,
                         color= 0x66bb6a
@@ -203,4 +161,4 @@ async def on_command_error(ctx, error, avamember: discord.Member=None):
             await ctx.send(f"An error occurred: {error}")
 
 # Run the bot
-bot.run("REPLACE WITH YOUR DISCORD BOT TOKEN")
+bot.run("REPLACE WITH YOUR BOT TOKEN")
