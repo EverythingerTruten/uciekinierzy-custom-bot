@@ -9,3 +9,32 @@ Podczas napadu na bank grozisz kasjerowi, a on daje ci {amount}.
 Przykładasz lufę do karku Margaret Thatcher i rozkazujesz jej, żeby wybrała {amount} z bankomatu.
 Dostajesz {amount} za eliminację Bidena.
 Gubernator Pensylwanii musi wybierać między śmiercią a oddaniem ci {amount}. Wybiera mądrze.
+Razem z oddziałem somalijskich piratów porywasz statek towarowy pełen iPhone’ów. Apple płaci ci {amount} w zamian.
+CIA płaci Ci {amount} za „zgubienie” teczki z tajnymi dokumentami w jeziorze.
+Szantażujesz Elona Muska, aby dał ci {amount} w zamian za utrzymanie w tajemnicy jego sekretnej rodziny na Marsie.
+Watykan oferuje Ci {amount} za „zniknięcie” Biblii 2.
+Kartel płaci ci {amount} za pozbycie się podejrzanie ciężkich worków na śmieci.
+Włamujesz się do Rezerwy Federalnej i przelewasz {amount} na swoje konto offshore.
+Porywasz Jeffa Bezosa i żądasz {amount} w nieoznakowanych banknotach.
+Kradniesz Deklarację Niepodległości i sprzedajesz ją rządowi USA za {amount}.
+Rząd Korei Północnej płaci Ci {amount} za przemyt dóbr luksusowych do Pjongjangu.
+Przechwytujesz paletę kości słoniowej i sprzedajesz ją na czarnym rynku za {amount}.
+Rodzina królewska Arabii Saudyjskiej płaci Ci {amount} za uciszenie sygnalisty.
+Włamujesz się do bazy danych Pentagonu i sprzedajesz tajemnice wojskowe za {amount}.
+Włoska mafia płaci Ci {amount} za wprowadzenie fałszywych euro do obiegu.
+Porwałeś dyrektora generalnego Google i żądasz {amount} w kryptowalucie.
+Chiński rząd płaci Ci {amount} za podpalenie fabryki Nvidii.
+Kradniesz bezcenny obraz (puste płótno z żółtą kropką po środku) z Luwru i sprzedajesz go za {amount}.
+Meksykański kartel płaci Ci {amount} za przemyt narkotyków przez granicę.
+Przechwytujesz przesyłkę metali ziem rzadkich i sprzedajesz ją za {amount}.
+Izraelski Mossad płaci Ci {amount} za wyeliminowanie ważnego celu.
+Włamujesz się do systemu bankowego SWIFT i przelewasz {amount} na swoje konto.
+Kolumbijscy baronowie narkotykowi płacą Ci {amount} za ochronę ich laboratoriów kokainowych.
+Porwałeś Papieża i żądasz {amount} za jego bezpieczny powrót.
+Japońska Yakuza płaci Ci {amount} za przemyt nielegalnej broni do Tokio.
+Włamujesz się na serwery Nowojorskiej Giełdy Papierów Wartościowych i manipulujesz akcjami, aby uzyskać zysk w wysokości {amount}.
+Brazylijski kartel płaci Ci {amount} za przemyt egzotycznych zwierząt z Amazonii.
+Południowoafrykańscy górnicy płacą Ci {amount} za przemyt krwawych diamentów.
+Kradniesz F-35 i sprzedajesz go Rosji za {amount}.
+Kanadyjska mafia płaci Ci {amount} za przemyt nielegalnego syropu klonowego przez granicę.
+Nigeryjski książę płaci ci {amount}, abyś pomógł mu odzyskać jego majątek.
