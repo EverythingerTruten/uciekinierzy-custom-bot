@@ -11,3 +11,25 @@ Przegrywasz wojnę licytacyjną na kontrakt wytworzenia bomb dla arabów. Nieste
 Próbujesz porwać idola k-pop ale nie wiesz kogo porwać bo wszyscy wyglądają tak samo. Paliwo do białego vana kosztuje cię {amount} - cholera, ale dzisiaj jest drogo.
 Kupujesz rosyjskie czołgi ale psują się po przejechaniu 50km od fabryki. Paliwo kosztuje cię {amount}.
 Policjanci zapisujący numer konta nie dosłyszeli ostatniego numerka. Okup {amount} nie dostaje się w twoje ręce.
+Próbujesz wysadzić most, ale detonator zawodzi. Rachunek za naprawę uszkodzonego sprzętu kosztuje Cię {amount}.
+Próbujesz włamać się do rządowej bazy danych, ale zamiast tego przypadkowo przekazujesz {amount} na rzecz organizacji charytatywnej.
+Podkładasz bombę w kryjówce rywalizującego gangu, ale okazuje się, że to żłobek. Wynikający z tego proces kosztuje cię {amount}.
+Próbujesz otruć rywala, ale sam przypadkowo wypijasz truciznę. Płukanie żołądka kosztuje cię {amount}.
+Wydajesz {amount} na „ściśle tajny” projekt, tylko po to, by zorientować się, że to dziecięcy rysunek kredkami przedstawiający rakietę kosmiczną.
+Próbujesz przemycić diamenty w bochenku chleba, ale głodny strażnik je zjada. Strata wynosi {amount}.
+Próbujesz obrabować bank, ale drzwi skarbca zatrzaskują się na twojej dłoni. Rachunki za leczenie i stracony czas kosztują cię {amount}.
+Wydajesz {amount} na „niezawodny” plan ucieczki, ale zakłada on ukrycie się w kontenerze na śmieci, który zostaje zabrany przez śmieciarkę.
+Próbujesz przekupić policyjnego psa smakołykami, ale on cię gryzie. Policja wzywa cię do zapłacenia {amount} za czyszczenie zębów psa u weterynarza.
+Wydajesz {amount} na „tajny” tunel do muzeum, ale prowadzi on bezpośrednio do biura ochrony.
+Płacisz {amount} za „cichy” karabin snajperski, ale tłumik odpada podczas strzału, alarmując wszystkich w pobliżu.
+Próbujesz przemycić narkotyki wartości {amount} w piniacie, ale zostaje ona rozbita na przyjęciu urodzinowym dziecka.
+Próbujesz przekupić strażnika więziennego, ale on wykorzystuje twoje {amount} na zainstalowanie dodatkowych kamer w twojej celi.
+Próbujesz włamać się do wojskowego satelity, ale przypadkowo zamawiasz {amount} w pizzach do swojej kryjówki
+Wydajesz {amount} na rewolucyjny materiał wybuchowy, ale okazuje się, że to bomby brokatowe.
+Płacisz {amount} za „niewidzialną” łódź podwodną, ​​ale okazuje się być jaskrawożółta i przyciąga uwagę straży przybrzeżnej.
+Próbujesz obrabować kasyno, ale rozpraszają cię automaty do gry i tracisz {amount} własnych pieniędzy.
+Myślisz, że udało ci się zastraszyć menedżera firmy twoim ransomware ale klikając w link do płatności zamiast {amount} okupu widzisz jak Rick Astley zaczyna tańczyć.
+Zapłaciłeś {amount} za fałszerza, ale on błędnie pisze twoje nazwisko na wszystkich dokumentach.
+Próbujesz wysadzić tamę, ale materiały wybuchowe przemokły. Sprzątanie kosztuje cię {amount}.
+Próbujesz przemycić złoto w walizce, ale rączka się łamie i wszystko wysypuje się na taśmę przenośnika na lotnisku. Strata wynosi {amount}.
+Próbujesz obrabować pociąg, ale jest pełen policjantów po służbie. Grzywny kosztują cię {amount}.
